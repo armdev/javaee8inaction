@@ -1,5 +1,5 @@
 # Java EE 8 in action !
-Java EAP with payara or glassfish. Call javascript from JSF 2.3 bean .
+Java EAP with payara or glassfish. Calling javascript script inside JSF 2.3 bean .
 
 1. mvn clean package -U
 2. copy eap-glass-ear.ear under payara or glassfish
