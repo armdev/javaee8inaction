@@ -25,7 +25,7 @@ public class ActionBean implements Serializable {
     public void eval() {
         final String alertMe = "We are using " + backendSessionBean.businessMethod();
 
-        StringBuffer alert = new StringBuffer();
+        StringBuilder alert = new StringBuilder();
         alert.append("alert").append("('").append(alertMe).append("')");
 
         getFacesContext().getPartialViewContext()
