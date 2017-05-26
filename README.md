@@ -1,4 +1,4 @@
-# javaee8inaction
+# Java EE 8 in action !
 Java EAP with payara or glassfish. Call javascript from JSF 2.3 bean .
 
 1. mvn clean package -U
